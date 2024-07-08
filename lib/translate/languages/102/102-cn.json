@@ -1,0 +1,21 @@
+{
+    "common_change_order_pass": "重新设置交易密码/固定OTP",
+    "sign_up_condition_title":"以节省开户时间，建议客户提前准备：",
+    "sign_up_condition_1":"有效期内的身份证原件",
+    "sign_up_condition_2":"银行账户（包括账号和分行的信息）；",
+    "sign_up_condition_3":"客户在具有稳定手机网络/wifi 的地方进行操作；",
+    "sign_up_condition_4":"但要避免光线直射，防止拍照时身份证反光",
+    "sign_up_condition_5":"有效的个人联系地址。",
+    "news_market" : "市场新闻",
+    "permissions_event_information" : "股权信息",
+    "csi_recommendations" : "CSI的推荐",
+    "open": "开盘价",
+    "close_price":"收盘价",
+    "login": "登记",
+    "create_account": "注册账户"
+    
+
+
+
+
+}

@@ -1,0 +1,1 @@
+- chỉnh lại ngôn ngữ hiện tại đang lưu trong global sv đang khác với ngôn ngữ mặc định locale

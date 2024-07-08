@@ -1,0 +1,12 @@
+enum ACCOUNT_TYPE { CASH_ACCOUNT, MARGIN_ACCOUNT, BOND_ACCOUNT, DERIVATIVES }
+
+extension AccountType on ACCOUNT_TYPE {
+  static const types = {
+    ACCOUNT_TYPE.CASH_ACCOUNT: 1,
+    ACCOUNT_TYPE.MARGIN_ACCOUNT: 2,
+    ACCOUNT_TYPE.BOND_ACCOUNT: 3,
+    ACCOUNT_TYPE.DERIVATIVES: 4,
+  };
+
+  int? get id => types[this];
+}

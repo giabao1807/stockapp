@@ -1,0 +1,18 @@
+{
+    "default_style": "1.0",
+    "latencyTime": 7,
+    "expiretime": 30,
+    "discexpire": 30,
+    "additionalStockRelease": true,
+    "auto_start_login_screen": false,
+    "default_hide_assets": true,
+    "show_get_iotp": false,
+    "is_iotp_off": true,
+    "is_history_login_screen_on": true,
+    "is_change_otp_type_screen_on": false,
+    "is_oddlot_info_order": true,
+    "is_update_user_info_screen_on": true,
+    "zalo_support_link": "https://zalo.me/g/dwosos774",
+    "is_show_pass_forget_warning": true,
+    "zalo_support_content_key": "join_with_gtjas"
+  }

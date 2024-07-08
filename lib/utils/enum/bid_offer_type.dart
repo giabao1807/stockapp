@@ -1,0 +1,1 @@
+enum BidOfferType { BID, ASK }

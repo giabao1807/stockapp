@@ -1,0 +1,7 @@
+{
+    "password_rule": "注意：必须至少有 8 个字符以及大写、小写、特殊字符和数字",
+    "password_rule_place_order": "注意：密码区分大小写，至少4个字符，包括字母和数字！",
+    "ekyc_notify_open_account": "请完成开设证券账户以使用 SSV 的服务",
+    "notify_info_ekyc_is_duplicate": "信息已在 SSV 注册。请拨打热线 02862998000",
+    "email_or_phone": "电话号码"
+}

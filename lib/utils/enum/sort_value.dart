@@ -1,0 +1,1 @@
+enum SortValue {none, code, value}

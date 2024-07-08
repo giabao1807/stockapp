@@ -1,0 +1,9 @@
+{
+    "password_rule": "Lưu ý: Mật khẩu phải có tối thiểu 8 ký tự bao gồm chữ hoa, chữ thường, ký tự đặt biệt và cả số",
+    "password_rule_place_order": "Mật khẩu có 4 ký tự gồm chữ hoặc số, phân biệt chữ hoa và chữ thường",
+    "ekyc_notify_open_account": "Quý Khách vui lòng hoàn tất mở tài khoản chứng khoán để tiếp tục sử dụng dịch vụ của SSV",
+    "notify_info_ekyc_is_duplicate": "Thông tin này đã được đăng ký tại SSV. Quý khách vui lòng liên hệ Hotline 02862998000 để nhận hỗ trợ",
+    "email_or_phone": "Số điện thoại",
+    "broker_warning": "Lưu ý: ID nhân viên chưa chính xác",
+    "remisier_warning": "Lưu ý: ID nhân viên chưa chính xác"
+}

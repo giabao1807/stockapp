@@ -1,0 +1,90 @@
+{
+  "888": {
+    "server_node_list": [
+      {
+        "index": 0,
+        "location": "Viet Nam",
+        "key_name": "server",
+        "key_name_note": "Altisss 01",
+        "icon": "ic_vietnam_server",
+        "stream_server": {
+          "ip_address": ["https://ysvnfos.altisss.vn"]
+        },
+        "trading_server": {
+          "ip_address": ["https://ysvnfos.altisss.vn"]
+        }
+      },
+      {
+        "index": 1,
+        "location": "Viet Nam",
+        "key_name": "server",
+        "key_name_note": "Altisss 02",
+        "icon": "ic_vietnam_server",
+        "stream_server": {
+          "ip_address": ["https://ysvnfos.altisss.vn"]
+        },
+        "trading_server": {
+          "ip_address": ["https://ysvnfos.altisss.vn"]
+        }
+      }
+    ],
+    "avatar_restful_domain": "https://fos.altisss.vn",
+    "sub_path_stream": "/market",
+    "sub_path_trading": "/services",
+    "comp_full": "Công ty cổ phần Công nghệ cao Altisss",
+    "comp_full_e": "Altisss High Technology Joint Stock Company",
+    "comp_full_cn": "Altisss 高科技股份公司",
+    "copyright": "©2018 - Bản quyền của Công ty Cổ phần Công nghệ cao Altisss - Phát triển bởi ALTISSS",
+    "copyright_e": "Copyright © 2018 ALTISSS High Technology",
+    "copyright_cn": "©2018 - ALTISSS高科技股份公司的版权",
+    "branch_location": "https://goo.gl/maps/xKKHKE1NxU7SWhwE6",
+    "list_index": ["HSXIndex", "HNXIndex", "HNXUpcomIndex", "VN30", "HNX30"],
+    "language_list": ["vi", "en", "cn", "zh", "ko"],
+    "shortName": "ALTISSS",
+    "logo_text": "ALTISSS High Technology",
+    "term_service": "https://altisss.vn",
+    "privacy_policy": "https://altisss.vn",
+    "appIdOnesignal": "0f399579-f173-4632-8f8b-a4b9f76b5220",
+    "link_playStore": "https://play.google.com/store/apps/details?id=vn.ssv.mobiletrading",
+    "link_appStore": "https://apps.apple.com/vn/app/shinhan-alpha-vn/id1594363552",
+
+    "application_style": "888.json"
+  },
+  "061": {
+    "server_node_list": [
+      {
+        "index": 0,
+        "location": "Viet Nam",
+        "key_name": "server",
+        "key_name_note": "GTJAS VN",
+        "icon": "ic_vietnam_server",
+        "stream_server": {
+          "ip_address": ["https://test.gtjai.com.vn/"]
+        },
+        "trading_server": {
+          "ip_address": ["https://test.gtjai.com.vn/"]
+        }
+      }
+    ],
+    "sub_path_stream": "/market",
+    "sub_path_trading": "/services",
+
+    "shortName": "GTJAS",
+    "comp_full": "CHỨNG KHOÁN GUOTAI JUNAN (VIỆT NAM)",
+    "comp_full_e": "GUOTAI JUNAN Securities (Viet Nam)",
+    "copyright": "©2021 - Bản quyền của Công ty cổ phần Chứng khoán Guotai Junan (VN)",
+    "copyright_e": "Copyright © 2021 Guotai Junan Securities (Vietnam)",
+
+    "link_playStore": "https://play.google.com/store/apps/details?id=vn.gtjai.mts",
+    "link_appStore": "https://apps.apple.com/vn/app/gtjas-mobile/id1605320421",
+    "term_service": "https://gtjai.com.vn/cate_support/nhom-3",
+    "riskdisclosure_link": "https://gtjai.com.vn/wp-content/uploads/2021/09/ONLINE-SECURITIES-TRANSACTION-RISK-DECLARATION_ENG.pdf",
+    "branch_location": "https://goo.gl/maps/4WRE2DPnwxjbtN6D9",
+
+    "list_index": ["HSXIndex", "HNXIndex", "HNXUpcomIndex", "VN30", "HNX30"],
+    "language_list": ["vi", "en", "zh"],
+    "appIdOnesignal": "",
+
+    "application_style": "061.json"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "password_rule": "Note: Must be at least 8 characters and upper, lower, special characters and number too",
+    "password_rule_place_order": "Password has 4 characters including letters or numbers, distinguish between lowercase and uppercase letters",
+    "total_cash_assets": "Total Cash",
+    "amount_widthdraw": "Amount of Withdraw-able",
+    "amount_blockade": "Suspending amount",
+    "cash_in_custody": "Holding amount by transaction",
+    "cash_from_right_waitting": "Expected cash dividend",
+    "cash_wait_avail": "Amount of settlement after selling",
+    "ekyc_notify_open_account": "Please kindly complete opening a securities account to use services at SSV",
+    "notify_info_ekyc_is_duplicate": "The information is registered at SSV. Please kindly contact Hotline 02862998000",
+    "email_or_phone": "Phone number",
+    "broker_warning": "Note: ID staff is incorrect",
+    "remisier_warning": "Note: ID staff is incorrect"
+}
